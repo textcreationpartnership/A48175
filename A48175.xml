@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter to a friend occasioned by my Lord Howard of Escricks letter to his friend with his protestation at the receiving the Blessed Sacrament in the Tower, July 3, 1681.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48175</idno>
+            <idno type="STC">Wing L1654</idno>
+            <idno type="STC">ESTC R36357</idno>
+            <idno type="EEBO-CITATION">15667466</idno>
+            <idno type="OCLC">ocm 15667466</idno>
+            <idno type="VID">104330</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48175)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104330)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1152:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter to a friend occasioned by my Lord Howard of Escricks letter to his friend with his protestation at the receiving the Blessed Sacrament in the Tower, July 3, 1681.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A.B. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Howard of Escrick, William Howard, --  Baron, 1626?-1694.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:104330:1" rendition="simple:additions"/>
+            <head>A LETTER TO A FRIEND, Occaſioned by my Lord Howard of Eſcricks LETTER TO HIS FRIEND, With his <hi>Proteſtation</hi> at the receiving the Bleſſed Sacrament in the <hi>Tower, July</hi> 3. 1681.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THough I have never received a Line from you theſe ten years, or know whether you have ſo much as heard of the late Impriſonment of the great <hi>Triumvirate,</hi> viz. Two <hi>Proteſtant Lords</hi> and a <hi>Joyner,</hi> much leſs read the Idle Stuff with which they or their Friends have Peſtered the Town in their Vindica<g ref="char:EOLhyphen"/>tion; yet becauſe it is the new way of telling all the world what we pleaſe, and eſpecially our Sir <hi>Pol.</hi> Conceits of Affairs of State, by pre<g ref="char:EOLhyphen"/>tending to whiſper 'em only to a Friend in a Corner, I muſt beg your leave to write now to you, that this Sheet of mine too may come out with the Title of a Letter to a Friend: Wherein I ſhall give you ſome account of a Paper, called, <hi>A Letter of my Lord</hi> Howard <hi>of</hi> Eſcrick <hi>to his I riend, together with his Proteſtation at his receiving the</hi> Bleſſed Communion <hi>in the</hi> Tower.</p>
+            <p>The Publiſher of this <hi>Letter</hi> and <hi>Proteſtation</hi> of my Lords, Uſhers it in with an Harangue of his own, and very gravely tells us. <hi>That there are two times in which his Charity does oblige him to think men, (eſpecially ſuch as ſtile themſelves Chriſtians,) dare not ſpeak any thing deviating from Truth,</hi> to wit, <hi>at their approach to Death, and to Gods Holy Table.</hi> In<g ref="char:EOLhyphen"/>deed
+<pb n="2" facs="tcp:104330:2"/>I can't chooſe but be very much inclin'd to his Charitable opini<g ref="char:EOLhyphen"/>on, and muſt needs think it very hard that any perſon, eſpecially if he has been of a Converſation void of Offence towards God and to<g ref="char:EOLhyphen"/>wards man, and of a Life that might teſtify for him, that he did not on<g ref="char:EOLhyphen"/>ly <hi>ſtile himſelf</hi> a Chriſtian, but was really ſo; that ſuch a one, I ſay, ſhould not be believed in either of theſe two Circumſtances: But I am as ſure that it is very reaſonable, that what is utter'd in the very mo<g ref="char:EOLhyphen"/>ment of Death, with all the circumſtances that uſually attend ſuch Proteſtations, ought to carry much greater force than that which is never ſo Religiouſly proteſted at the receiving of the Communion, where the hopes of avoiding puniſhment by Swearing off a Guilt that is Capital, and the diſtance of the Judgment that is threatned this Vio<g ref="char:EOLhyphen"/>lation, and perhaps the disbelief of any future puniſhment for it at all, may be very ſtrong Inducements to any perſon in theſe Circumſtances to venture to approach this Holy Table with a Lye in his Mouth: eſpecially if his Life and Converſation has been ſuch, and particularly his Reverence for this Holy Sacrament at other times ſo little, as may give but very ſmall grounds of Credibility to his Proteſtations at the ſame Holy Sacrament, when either to ſerve his Intereſt, or to ſave his Life they are made; and how far this may concern our Noble Proteſtor, we ſhall ſhortly enquire. If then the Scribler that tells us, <hi>There are two times in which we are chiefly to believe men;</hi> tells us, as he does im<g ref="char:EOLhyphen"/>mediately after; that for all this he can't believe what has been ſo ſo<g ref="char:EOLhyphen"/>lemnly aſſerted by ſeveral Gentlemen at one of theſe his two times, and that which of the two is leaſt lyable to ſuſpition of Falſhood; he can<g ref="char:EOLhyphen"/>not ſure be offended if ſome perſons are as hard of belief to what is as ſolemnly Proteſted at the other: And particularly by my Lord <hi>Howard,</hi> if ſome reaſons appear that may very well juſtify the incredulity that ſuſpects this Honourable Lords Declaration.</p>
+            <p>And firſt let People very well conſider the laſt Confeſſion of <hi>Fitz-Harris,</hi> ſo deliberately written, each Period ſo Religiouſly Sworn to upon his Knees, and with ſuch dreadful Imprecations own'd and aſſer<g ref="char:EOLhyphen"/>ted for Truth, both at his Penning it, and at the laſt moment of his Life, without any hopes of Pardon upon Earth, or any poſſibility of Pardon in Heaven, if he ſhould die with a Lye in in his Mouth; and and then let them tell me which Proteſtation ought to have greateſt weight, that of a Dying Penitent, or ſuch a Communicant. Sure if Oaths and Proteſtations make men either Innocent or Guilty, my Lord <hi>Howard</hi>'s and this being compar'd by Impartial Judges, it will go very hard on the Peers ſide. But alas! there are other Teſtimonies, Living Witneſſes which in theſe Caſes are to make good ſuch a Charge as is laid to his Lordſhip before that Tribunal whoſe Juſtice is not here to be Foreſtal'd: And therefore 'tis the Proteſtations on both ſides, and the Solemnity of them that is fitteſt for us to examine. In a word then, if Mr. <hi>Fitz-harrys</hi> his Declaration be true, my Lord <hi>Howard</hi>'s, (at leaſt the firſt part of it) is falſe. For the laſt part of it, <hi>viz. That he never was in that houſe in</hi> Shandois <hi>Street, where the ſaid</hi> Fitz-Harrys <hi>was taken,
+<pb n="3" facs="tcp:104330:2"/>and where his Wife ſoon after was brought to Bed, ſave only once in the company of a Lady,</hi> &amp;c. It may perhaps be true; but here is withal a Mental Reſervation, as had we no other grounds, might make us ſuſpect all the reſt he labours to perſwade us: For perhaps that Lady his Lordſhip ſpeaks of can atteſt, and I am ſure ſeveral others can, that he has not been once or twice, but very frequently, at divers times, not only in publick at Dinners and Suppers, but alſo privately with <hi>Fitz-Harrys;</hi> not indeed <hi>in that Houſe wherein he was taken, and where<g ref="char:EOLhyphen"/>in his Wife ſoon after was brought to Bed,</hi> as his Lordſhip ſo cautiouſly proteſts, but in that Houſe where he formerly lived, Mr. <hi>Fitz-Harys</hi> having removed from that to another not many doors diſtant a little while before he was apprehended.</p>
+            <p>I beſeech you, my Lord, why all this Caution? Why ſo tender of naming <hi>Fitz-Harys</hi> his Houſe, without adding theſe qualities to it; <hi>wherein he was taken,</hi> and <hi>wherein his Wife was brought to bed?</hi> Was it not to evade the including the other Houſe of Mr. <hi>Fitz-Harys</hi> his in <hi>Shandois-ſtreet,</hi> where he and your Lordſhip have ſate up almoſt whole nights together, with all the privacy imaginable, with no ill intention alas! only to ſmoak an innocent Pipe, and have a little indifferent chat by your ſelves, or ſo? Or were you affraid that, without this Reſtri<g ref="char:EOLhyphen"/>ction, you might be in danger of ſwearing that you had not been above once in your whole Life at <hi>your own Houſe.</hi> Your own Houſe, my Lord, which entertained <hi>Fitz-Harys</hi> ſo long, almoſt a whole Win<g ref="char:EOLhyphen"/>ter, that by an eaſie figure it might be called Mr. <hi>Fitz-Harris</hi> his Houſe, or at leaſt Mr. <hi>Fitz-Harris</hi> his Lodgings. Or was this mighty care and exactneſs uſed to make people believe that you really valu'd what you ſwore? Was that the Policy? to make a mental Reſervation on pur<g ref="char:EOLhyphen"/>poſe to be found out? that the World might think your Conſcience a little more ſcrupulous, and your Veneration for a Sacrament ſome<g ref="char:EOLhyphen"/>what greater, than when your Lordſhip adminiſtred it your ſelf in <hi>Lambs-wool?</hi> Indeed you would put this upon us, and therefore you tell us in your Letter how <hi>ſolemnly</hi> this Proteſtation was <hi>made, under the most ſacred ties of Religion.</hi> But, my Lord, how ſhall we be aſſured that this Proteſtation with you ſignifies any more, than if it had been <hi>as ſolemnly made under, the moſt ſacred ties of Apples and Ale?</hi> Or how could you ever hope that one who had ſo profan'd this moſt Holy My<g ref="char:EOLhyphen"/>ſtery of our Religion, ſo expos'd our Bleſſed Saviour, and put him to a more infamous and open ſhame than ever the malice of the <hi>Jews</hi> his Crucifiers could reach at, ſhould yet get any Credit to his Proteſtations by that Sacrament which himſelf has ſo notoriouſly violated? No, my Lord, whatever Judgments are in ſtore for the Profaners of our moſt Sacred Rites, and the Contemners of the very Badge and Seal of our Holy Religion in the World to come, this we are certain is the natural Puniſhment of ſuch an Impiety in this World, and the greateſt Juſtice too that can poſſibly be, That he who has thus made a mock of all that is Sacred, ſhould never, in his greateſt extremeties, be believed, by pretending a Reverence to that Myſtery which he has ſo Atheiſtically
+<pb n="4" facs="tcp:104330:3" rendition="simple:additions"/>abus'd, or have any benefit from that Grace of God which he has turn'd into Wantonneſs.</p>
+            <p>What good Chriſtian now can be ſo uncharitable as to doubt of the Verity of my Lord <hi>Howard</hi>'s Proteſtation? What Infidel among us can withſtand the force of this <hi>Sacermental Oath made</hi> as his friend tells you (p. 2.) by <hi>one whoſe Principles will not allow the leaſt grain of Equivocation, either with God or man; and whoſe Honour and Quality, Behaviour and Converſation ſtrongly do aſſert the Credibility of his Teſti<g ref="char:EOLhyphen"/>mony.</hi> O Rhetorick! And have they not ſtrongly aſſerted indeed? Has not one only Inſtance of his <hi>Principles,</hi> his <hi>Behaviour</hi> and <hi>Conver<g ref="char:EOLhyphen"/>ſation</hi> left us out of all poſſibility of doubting his <hi>Truth?</hi> This very ſingle Action of his whole Life, this playing the <hi>Prieſt</hi> over a Bowl of of Conſecrated <hi>Lambs-wool,</hi> is enough to convince us of it. Why then ſhould we ſearch into the whole courſe of his Converſation and Beha<g ref="char:EOLhyphen"/>viour for further Arguments? Why ſhould we purſue this Honourable Peer through all the Scenes of as Infamous a Life as almoſt is to be found among a whole pack of Evidences? What need we follow him through his Brokers Shop into his ſanctified Tub, from cheating men of then Money, to gulling them of their Souls? Why ſhould we hunt him through all the Sects of Religions which he has herded amongſt, without having any at all himſelf, like the <hi>Polypus</hi> that has no Colour of his own, but takes that of the next ſtone he ſticks to? Why ſhould we ſearch into his ſecret Cabals with Raſcals, from the higheſt to the vileſt Quality, all which, in a more proper place ſhall ſhortly come to light? Why ſhould we p<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> into the reaſon of his own Diſcontents, or his ſac<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> whoſe of all others he could meet with; his per<g ref="char:EOLhyphen"/>petual familiarity with <hi>Fitz-Harys,</hi> whom by his <hi>Proteſtation</hi> he would inſinuate he was ſcarce acquainted with; his proteſting for him whilſt he liv'd, and proteſting againſt him now he's dead? What need, I ſay, is there of theſe, or of infinite other Inſtances of this kind, to gain a Reputation to his Oath at the <hi>Sacrament?</hi> We will not (like his Friend the Publiſher) have his Credibility in this Caſe depend on ſuch general Arguments as the courſe of his Life does afford. No, certainly the value he has for the Bleſſed Sacrament is to be eſtimated from that Action of his Life which more particularly relates thereto. And that having been ſufficiently inſiſted upon, we ſhall leave the Rea<g ref="char:EOLhyphen"/>der to gueſs at all the reſt of the motives of Credibility which his Friend tells us may be drawn from the whole tenour of his Behaviour and Converſation by this one which we have produced, and then deſire him to believe as much of this <hi>Proteſtation</hi> even as my good <hi>Proteſtant</hi> Lord himſelf that made it.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>A. B. Anno Dom.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
